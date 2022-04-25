@@ -11,3 +11,5 @@ También revisaremos las funciones una de las características más poderosas de
 ## Objetivo
 
 Al terminar los ejemplos y ejercicios agrega el link a continuación.
+
+[Objetivo logrado](https://github.com/EzequielSV/javasscript-lab-02)
